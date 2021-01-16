@@ -3,6 +3,4 @@ Teste simples de reconhecimento de voz com python
 
 ## Libs  
 - SpeechRecognition  
-- pyaudio  
-- gTTS  
-- playsound  
+- PyAudio(whl)  

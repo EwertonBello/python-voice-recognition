@@ -1,0 +1,6 @@
+comtypes==1.1.8
+PyAudio @ file:///C:/dev/Python/python_voice_recognition/PyAudio-0.2.11-cp38-cp38-win32.whl
+pypiwin32==223
+pyttsx3==2.90
+pywin32==300
+SpeechRecognition==3.8.1
